@@ -1,0 +1,16 @@
+{
+  "name": "web3-cloud-storage-backend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "latest",
+    "cors": "latest",
+    "dotenv": "latest",
+    "lighthouse-web3": "latest",
+    "multer": "latest",
+    "ethers": "latest"
+  }
+}
